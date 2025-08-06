@@ -1,2 +1,2 @@
 print("dik lmao")
-print ("new feature")
+print ("new feature", "button")
